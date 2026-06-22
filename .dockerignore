@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.env
+.env.local
+firebase-service-account.json
+.git
+.gitignore
+Dockerfile
+.dockerignore
+render.yaml
+*.md
+seeds/
+scripts/
